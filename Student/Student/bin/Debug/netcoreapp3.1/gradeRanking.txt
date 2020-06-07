@@ -1,0 +1,8 @@
+# of ranks = 6
+------------------------
+#1 Webber John 87.85
+#2 Thomas Eason 81.25
+#3 Wood Alice 78.7
+#4 Anderson Baily 77.2
+#5 Bolt Wendy 74.25
+#6 Thomas Daily 65.45
